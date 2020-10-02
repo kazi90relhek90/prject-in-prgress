@@ -1,0 +1,42 @@
+#Container div {
+     width: 48px;
+     margin: auto;
+     height: 48px;
+     border: 1px solid black;
+     float: left ;
+ }
+
+ html {
+     width : 175px;
+     margin: auto
+ }
+
+ .UnActiveBTN{
+    color: white;
+    background-color: black;
+ }
+
+ .activeBTN{
+    color: black; 
+    background-color: white;
+ }
+
+ img {
+     width: 150px;
+     height: 150px;
+    }
+p {
+    width: 120px;
+    margin: auto
+}
+
+.centered div{
+    width : 320px;
+    margin: auto;
+    background-color: blue;
+}
+
+#StartBTN {
+    background-color: fuchsia;
+    padding: 5px;
+}
